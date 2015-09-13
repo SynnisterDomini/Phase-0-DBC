@@ -1,4 +1,4 @@
-Link to my repository: https://synnisterdomini.github.io
+Link to my repository: https://github.com/SynnisterDomini/SynnisterDomini.github.io
 
 It's easy to make a repository on GitHub. All you need to do is log into GitHub and click the plus sign in the upper right hand corner, and select "new repository". If you want to clone it to your computer, open bash and type "git clone [repository URL]". 
 
