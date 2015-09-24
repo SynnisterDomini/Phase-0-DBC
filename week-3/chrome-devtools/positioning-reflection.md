@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-	<img src="imgs/pair1scrn1.png">
-	<img src="imgs/pair1scrn2.png">
-	<img src="imgs/pair1scrn3.png">
-	<img src="imgs/pair1scrn4.png">
-	<img src="imgs/pair1scrn5.png">
-	<img src="imgs/pair1scrn6.png">
-	<img src="imgs/pair1scrn7.png">
-	<img src="imgs/pair1scrn8.png">
-	<img src="imgs/pair1scrn9.png">
+	<img src="imgs/Pair1scrn1.png">
+	<img src="imgs/Pair1scrn2.png">
+	<img src="imgs/Pair1scrn3.png">
+	<img src="imgs/Pair1scrn4.png">
+	<img src="imgs/Pair1scrn5.png">
+	<img src="imgs/Pair1scrn6.png">
+	<img src="imgs/Pair1scrn7.png">
+	<img src="imgs/Pair1scrn8.png">
+	<img src="imgs/Pair1scrn9.png">
