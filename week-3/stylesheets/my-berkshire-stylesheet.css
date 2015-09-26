@@ -74,3 +74,29 @@ html {
 .regular {
     font-size: 1em;
 }
+
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+When linking an external file, you need to make sure that the directory and filenames are correct and refer to each other properly.
+I did this by checking regularly and copying the .css sheet into the same directory as the html file and checking first to make sure that the filename was correct.
+Then I linked the proper path in the html file and checked to see if there were any changes in the final document.
+Since there were no changes, I knew that the file was linked correctly.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+I used floats and margins to get the positioning correct. It was quite annoying; there was a lot of trial and error, but my partner and I had a good time figuring things out.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+In order to modify element styles we used classes. We had a specific capitailzation class for the B and H in Berkshire Hataway, as well as other classes for color/positioning.
+
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, how would you know which one to add to your HTML?
+
+Yes, we used lots of classes in our html file. We used a lot of different ones, we used left and right to seperate the two lists, capitalize for the B and H in Berkeshirehataway,
+top and bottom for positioning, bold to make things bold, regular to make a standard font size, many classes overall.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why? 
+
+I feel our code was cleaner. We had no css directly inside our codebase and we did not create multiple tables with multiple lists each with one entry each.
+*/ 
