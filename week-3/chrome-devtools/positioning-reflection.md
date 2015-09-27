@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 
 	! [image 1] (imgs/Pair1scrn1.png)
 	<img src="imgs/Pair1scrn2.png">
@@ -41,4 +40,3 @@ What was your impression of this challenge overall? (love, hate, and why?)
 
 I enjoyed the challenge. I found designing a website in HTML to be kind of tedious because it involved a lot of copy and pasting. Being able to seperate things into classes made a lot of sense to me.
 
-</html>
