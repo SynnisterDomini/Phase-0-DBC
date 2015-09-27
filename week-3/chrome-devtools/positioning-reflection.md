@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html>
 
-	<img src="imgs/Pair1scrn1.png">
-	<img src="imgs/Pair1scrn2.png">
-	<img src="imgs/Pair1scrn3.png">
-	<img src="imgs/Pair1scrn4.png">
-	<img src="imgs/Pair1scrn5.png">
-	<img src="imgs/Pair1scrn6.png">
-	<img src="imgs/Pair1scrn7.png">
-	<img src="imgs/Pair1scrn8.png">
-	<img src="imgs/Pair1scrn9.png">
+<img src="imgs/Pair1scrn1.png">
+<img src="imgs/Pair1scrn2.png">
+<img src="imgs/Pair1scrn3.png">
+<img src="imgs/Pair1scrn4.png">
+<img src="imgs/Pair1scrn5.png">
+<img src="imgs/Pair1scrn6.png">
+<img src="imgs/Pair1scrn7.png">
+<img src="imgs/Pair1scrn8.png">
+<img src="imgs/Pair1scrn9.png">
 
 
 How can you use Chrome's DevTools inspector to help you format or position elements?
@@ -41,4 +39,3 @@ What was your impression of this challenge overall? (love, hate, and why?)
 
 I enjoyed the challenge. I found designing a website in HTML to be kind of tedious because it involved a lot of copy and pasting. Being able to seperate things into classes made a lot of sense to me.
 
-</html>
