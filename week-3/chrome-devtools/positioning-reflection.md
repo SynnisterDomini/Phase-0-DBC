@@ -1,6 +1,6 @@
 
 
-	! [image 1] (imgs/Pair1scrn1.png)
+	![image 1][imgs/Pair1scrn1.png]
 	<img src="imgs/Pair1scrn2.png">
 	<img src="imgs/Pair1scrn3.png">
 	<img src="imgs/Pair1scrn4.png">
