@@ -214,7 +214,16 @@
 #
 #  Which error was most difficult to read?
 #
-#  The 
+#  The error that was the most difficult to read was the 2nd one, the one that ended literally at the end of the code document.
+# 
+#  How did you figure out what the issue with the error was?
+#  
+#  My main method for finding out the issue with the error was to look at the referenced line of code and then at the most recent code being run.
 #
+#  Were you able to determine why each error message happened based on the code?
 #
+#  Well, the codes certainly helped. Knowing exactly where the errors were was extremely useful.
 #
+#  When you encounter errors in your future code, what processes will help you debug?
+#
+#  It will be useful to find the line of code in question, and then review and ensure that all my arguments are correct and I'm using the correct forms of data for interaction.
