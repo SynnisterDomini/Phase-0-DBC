@@ -47,3 +47,9 @@ Local variables are variables specifically defined in a method. We use them so t
 How was this challenge? Did you get a good review of some of the basics?
 
 The challenge wasn't bad, I consider it a good review.
+
+defining variables: https://github.com/SynnisterDomini/Phase-0-DBC/blob/master/week-4/defining-variables.rb
+
+simple strings: https://github.com/SynnisterDomini/Phase-0-DBC/blob/master/week-4/simple-string.rb
+
+basic math: https://github.com/SynnisterDomini/Phase-0-DBC/blob/master/week-4/basic-math.rb
