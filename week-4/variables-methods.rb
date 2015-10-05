@@ -31,3 +31,8 @@ end
 #What was confusing about this material? What made sense?
 
 #The most confusing part was getting the ruby environment to run on my computer. After that, everything was like codeacademy.
+#
+#links to code: 
+#
+#https://github.com/SynnisterDomini/Phase-0-DBC/blob/master/week-4/make_address/my_solution.rb
+#https://github.com/SynnisterDomini/Phase-0-DBC/blob/master/week-4/math/my_solution.rb
