@@ -17,10 +17,10 @@ end
 def my_hash_finding_method(source, thing_to_find)
   answer = Array.new
   source.each {|k,v| answer.push(k) if v == thing_to_find}
-  print answer
+  return answer
 end
 
-my_hash_finding_method(my_family_pets_ages, 3)
+# my_hash_finding_method(my_family_pets_ages, 3)
 # Identify and describe the Ruby method(s) you implemented.
 # The methods I used were pretty simple. The only new one I used was include?
 # The .include? method returns a boolean value if there is a matach between an input and a data point.
