@@ -27,16 +27,35 @@ end
 #
 
 # Person 2
+
 def my_array_modification_method!(source, thing_to_modify)
-  source.dup # This line is here to make sure all tests initially fail. Delete it when you begin coding.
+  new_array = []
+  source.each { |x| x.is_a?(Integer) ? new_array << x + thing_to_modify : new_array << x }
+  source.replace(new_array)
+  return source
 end
 
+
 def my_hash_modification_method!(source, thing_to_modify)
-  source.dup # This line is here to make sure all tests initially fail. Delete it when you begin coding.
+  source.each { |k, v| source[k] = v + thing_to_modify }
+  return source
 end
 
 # Identify and describe the Ruby method(s) you implemented.
+# For the array I used each to iterate through the array and is_a?(Integer) to single out the numbers then modified the numbers and pushed them to a new_array. 
+# Then I replaced source with the new array.
+# For the hash I used each again to iterate through each key value pair. Then for each key I added to its value.
 #
+
+
+
+
+
+# Release 3: Reflect!
+# What did you learn about researching and explaining your research to others?
+# Nothing really. I feel like thats the easy part. It just takes a long time to find a method that works. 
+# Sometimes I find one that should work but I'm getting the syntax or order wrong.
+# By the time I get it it's pretty simple to explain
 #
 #
 
