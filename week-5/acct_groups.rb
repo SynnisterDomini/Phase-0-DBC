@@ -72,3 +72,25 @@ def create_group (population)
 end
 
 #create_group(copperhead)
+
+# Reflection:
+# What was the most interesting and most difficult part of this challenge?
+
+# The hardest part of this challenge was inputing all the individuals of the group into an array.
+# The most interesting part of this challenge was figuring out how to get the right amount of people per group.
+
+# Do you feel you are improving in your ability to write pseudocode and break the problem down?
+
+# I do believe I'm improving when it comes to writing my psudeo code and translating that into regular code.
+
+# Was your approach for automating this task a good solution? What could have made it even better?
+
+# I think my solution was solid, but right now it won't work with groups that aren't prefectly divisible by 4. Fixing this problem would make it universal and more versatile.
+
+# What data structure did you decide to store the accountability groups in and why?
+
+# I used an array because it can be easily shuffled, and because there was no need for hashes.
+
+# What did you learn in the process of refactoring your initial solution? Did you learn any new Ruby methods?
+
+# I learned about the shuffle method, but that was about it.
