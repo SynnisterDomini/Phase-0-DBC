@@ -11,25 +11,32 @@
 // Program Structure
 // Write your own variable and do something to it.
 
-var name = "Isaac Lee"
-name = "Not Isaac Lee"
+// var name = "Isaac Lee"
+// name = "Not Isaac Lee"
 
 
-prompt("What's your favorite food?", "insert food here")
-console.log("That is my favorite, too!")
+// prompt("What's your favorite food?", "insert food here")
+// console.log("That is my favorite, too!")
 
-var x = 0
-while (x <= 100) {
-	x+=1
-	if (x % 3 == 0 && x % 5 != 0)
-		console.log("Fizz");
-	else if (x % 5 == 0 && x % 3 != 0)
-		console.log("Buzz");
-	else if (x % 3 == 0 && x % 5 == 0)
-		console.log("FizzBuzz");
-	else
-		console.log(x);
-}
+// var x = 0
+// while (x <= 100) {
+// 	x+=1
+// 	if (x % 3 == 0 && x % 5 != 0)
+// 		console.log("Fizz");
+// 	else if (x % 5 == 0 && x % 3 != 0)
+// 		console.log("Buzz");
+// 	else if (x % 3 == 0 && x % 5 == 0)
+// 		console.log("FizzBuzz");
+// 	else
+// 		console.log(x);
+// }
+
+// function min(num1, num2) {
+// 	if (num1 < num2)
+// 		return num1;
+// 	else if (num2 < num1)
+// 		return num2;
+// }
 
 // What is an expression?
 // An expression is a piece of code that compares one item to another.
@@ -63,6 +70,7 @@ while (x <= 100) {
 // Functions
 
 // Complete the `minimum` exercise.
+// minimum completed above.
 
 
 
