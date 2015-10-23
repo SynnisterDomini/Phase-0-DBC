@@ -18,6 +18,7 @@
 // prompt("What's your favorite food?", "insert food here")
 // console.log("That is my favorite, too!")
 
+// fizzbuzz
 // var x = 0
 // while (x <= 100) {
 // 	x+=1
@@ -31,6 +32,7 @@
 // 		console.log(x);
 // }
 
+// minimum
 // function min(num1, num2) {
 // 	if (num1 < num2)
 // 		return num1;
@@ -76,3 +78,10 @@
 
 // Data Structures: Objects and Arrays
 // Create an object called "me" that stores your name, age, 3 favorite foods, and a quirk below.
+var me = {};
+function addtome(character, fact) {
+	me[character] = fact;
+}
+addtome("name", "Isaac Lee")
+addtome("Favorite Foods", "Pizza, Curry, Chocolate")
+addtome("quirk", "I like cute things")
