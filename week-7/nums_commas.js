@@ -66,3 +66,18 @@ var string_number = String(number);
 
 
 // Reflection
+// What was it like to approach the problem from the perspective of JavaScript? Did you approach the problem differently?
+
+// My perspective was the same.
+
+// What did you learn about iterating over arrays in JavaScript?
+
+// Iterating over arrays in javascript is done in a bit more basic manner, but this method can be applied to other languages as well,
+
+// What was different about solving this problem in JavaScript?
+
+// I had to write the methods out and create new methods that weren't built into javascript.
+
+// What built-in methods did you find to incorporate in your refactored solution?
+
+// I used slice and length.

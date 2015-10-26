@@ -58,3 +58,15 @@ console.log(michaelPhelps.name + " " + michaelPhelps.sport + " " + michaelPhelps
 
 
 // Reflection
+
+// What JavaScript knowledge did you solidify in this challenge?
+
+// I solidified my object manipulation.
+
+// What are constructor functions?
+
+// A constructor function is a function that creates a new object with set properties.
+
+// How are constructors different from Ruby classes (in your research)?
+
+// Because it creates an object, you can manipulate the object and add new, previously undefined variables and methods to it from outside of the original object.
