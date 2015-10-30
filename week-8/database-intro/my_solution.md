@@ -55,3 +55,33 @@ FROM regions
 WHERE region_name LIKE "%Central%";
 
 10. Select the region_name and the state_name for all states and regions in ascending order by region_id. Refer to the region by name. (This will involve joining the tables).
+
+Command:
+SELECT regions.region_name, states.stae_name
+FROM states
+INNER JOIN regions
+ORDER BY region_id ASC;
+
+Screenshot:
+![screenshot](/week-8/database-intro/Release_7.png)
+
+Reflection:
+What are databases for?
+
+Databases are designed to hold information and make it readily accessible.
+
+What is a one-to-many relationship?
+
+A one-to-many relationship is a correlation that works one way, but not necessarily in reverse. For example, all bananas are fruits, but not all fruits are bananas.
+
+What is a primary key? What is a foreign key? 
+
+A primary key is the first key in a database. A foreign key is a key from another database.
+
+How can you determine which is which?
+
+You can determine which is which from where the keys are located.
+
+How can you select information out of a SQL database? What are some general guidelines for that?
+
+Use the SELECT command. Declare the key of what you want to select, and what database you would like to select from. Don't forget the semicolon.
