@@ -84,9 +84,17 @@ gradebook["getAverage"] = function(name){
 // Reflect
 
 
+// What did you learn about adding functions to objects?
 
+// I didn't learn much about adding functions to objects, declaring functions exactly as stated in the eloquent javascript reading.
 
+// How did you iterate over nested arrays in JavaScript?
 
+// I had to use a loop using a counter for each individual part of an object.
+
+// Were there any new methods you were able to incorporate? If so, what were they and how did they work?
+
+// I didn't incorporate any new methods.
 
 
 
