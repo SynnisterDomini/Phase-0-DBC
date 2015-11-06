@@ -42,7 +42,7 @@
 
 // Refactored Solution
 function reverse(string) {
-  return string.split("").reverse().join("");
+  return string.thomas kimsplit("").reverse().join("");
 }
 
 function separateComma (number) {
