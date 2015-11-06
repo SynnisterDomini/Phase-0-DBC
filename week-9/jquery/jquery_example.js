@@ -40,7 +40,17 @@ $('img').animate({
 	'height': '20px',
  	'width': '110px'})
 
+// Reflection
+// What is jQuery?
 
+// jQuerey is a library of code with javascript methods built in.
 
+// What does jQuery do for you?
+
+// It allows you to use commands within the library.
+
+// What did you learn about the DOM while working on this challenge?
+
+// I learned how to select objects using ChromeDevTools.
 
 })  // end of the document.ready function: do not remove or write DOM manipulation below this.
